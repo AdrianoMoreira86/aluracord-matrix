@@ -14,5 +14,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
+  },
+  "devDependencies": {
+    "formik": "^2.2.9"
   }
 }
